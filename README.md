@@ -10,6 +10,9 @@ This is a specialization on
 [Coursera](https://www.coursera.org/specializations/applied-crypto) 
 which contains the following 4 courses:
 
-1. [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory) [:octocat:]()
+1. [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory) [:octocat:](https://github.com/anishLearnsToCode/cryptography-and-information-theory)
+1. [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto)
+1. [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
+1. [Cryptographic Hash and Integrity Protection](https://www.coursera.org/learn/cryptographic-hash-integrity-protection)
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
