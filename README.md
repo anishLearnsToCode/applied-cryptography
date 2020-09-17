@@ -2,6 +2,7 @@
 __~University of Colorado__
 
 [![course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
+[![intro-to-applied-crypto](https://img.shields.io/badge/related-Introduction%20To%20Applied%20Cryptography-1f72ff.svg)](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
 
 This is a specialization on 
 [Coursera](https://www.coursera.org/specializations/applied-crypto) 
