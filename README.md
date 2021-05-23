@@ -18,7 +18,7 @@ which contains the following 4 courses:
    [:octocat:](https://github.com/anishLearnsToCode/asymmetric-cryptography-key-management)
    [🎓](http://coursera.org/verify/KLZSC7H2JH72)
 1. [Cryptographic Hash and Integrity Protection](https://www.coursera.org/learn/cryptographic-hash-integrity-protection)
-   [:octocat:](https://www.coursera.org/learn/cryptographic-hash-integrity-protection)
+   [:octocat:](https://github.com/anishLearnsToCode/asymmetric-cryptography-key-management)
    [🎓](http://coursera.org/verify/XPG8L6K9URV9)
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
